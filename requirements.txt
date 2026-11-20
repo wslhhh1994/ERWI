@@ -1,0 +1,6 @@
+# Install a CUDA-compatible PyTorch build for full inversion.
+numpy
+scipy
+torch
+mpi4py
+# Install exactly one matching CuPy package separately, e.g. cupy-cuda12x.
